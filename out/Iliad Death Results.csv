@@ -1,0 +1,8 @@
+Book,Total Greek Injuries,Total Trojan Injuries,Total Injuries,Greek Nonlethal Injuries,Trojan Nonlethal Injuries,Total Nonlethal Injuries,Greek Lethal Injuries,Trojan Lethal Injuries,Total Lethal Injuries,Total Greek Major Character Injuries,Total Trojan Major Character Injuries,Total Major Character Injuries,Greek Major Character Nonlethal Injuries,Trojan Major Character Nonlethal Injuries,Total Major Character Nonlethal Injuries,Greek Major Character Lethal Injuries,Trojan Major Character Lethal Injuries,Total Major Character Lethal Injuries,Ratio of Injuries Dealt by Greeks,Ratio of Injuries Dealt by Trojans,Ratio of Deaths Sustained by Greeks,Ratio of Deaths Sustained by Trojans,Average Lines Between Injuries,Average Lines Per Injury
+5,7,35,42,1,4,5,6,31,37,1,3,4,1,3,4,0,0,0,0.83,0.17,0.16,0.84,20.4390243902439,21.64
+6,0,15,15,0,0,0,0,15,15,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,1.0,4.071428571428571,35.27
+7,3,1,4,0,1,1,3,0,3,0,1,1,0,1,1,0,0,0,0.25,0.75,1.0,0.0,84.66666666666667,120.75
+8,1,12,13,1,0,1,0,12,12,1,0,1,1,0,1,0,0,0,0.92,0.08,0.0,1.0,17.333333333333332,43.46
+10,0,14,14,0,0,0,0,14,14,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,1.0,3.0,41.43
+11,14,27,41,5,0,5,9,27,36,4,0,4,4,0,4,0,0,0,0.66,0.34,0.25,0.75,12.25,20.66
+12,1,10,11,0,1,1,1,9,10,0,1,1,0,1,1,0,0,0,0.91,0.09,0.1,0.9,21.1,42.82

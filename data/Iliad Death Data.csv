@@ -1,0 +1,141 @@
+Book,Line,Assailant,Assailant Side,Assailant Major Character?,Victim,Victim Side,Victim Major Character?,Victim Killed?,Location of Injury
+5,19,Diomedes,G,Y,Phegeus,T,N,Y,Chest
+5,41,Agamemnon,G,Y,Odios,T,N,Y,Back
+5,43,Idomeneus,G,N,Phaistos,T,N,Y,Shoulders
+5,49,Menelaos,G,Y,Skamandrios,T,N,Y,Shoulders
+5,59,Meriones ,G,N,Phereklos,T,N,Y,Buttocks
+5,69,Meges,G,N,Pedaios,T,N,Y,Neck
+5,76,Eurypylos,G,N,Hypsenor,T,N,Y,Arms
+5,98,Pandaros,T,N,Diomedes,G,Y,N,Shoulders
+5,144,Diomedes,G,Y,Astynoös,T,N,Y,Chest
+5,144,Diomedes,G,Y,Hypeiron,T,N,Y,Decapitated
+5,151,Diomedes,G,Y,Polyidos,T,N,Y,Not Specified
+5,151,Diomedes,G,Y,Abas,T,N,Y,Not Specified
+5,155,Diomedes,G,Y,Xanthos,T,N,Y,Not Specified
+5,155,Diomedes,G,Y,Thoön,T,N,Y,Not Specified
+5,159,Diomedes,G,Y,Echemmon,T,N,Y,Not Specified
+5,159,Diomedes,G,Y,Chromios,T,N,Y,Not Specified
+5,291,Diomedes,G,Y,Pandaros,T,N,Y,Head
+5,305,Diomedes,G,Y,Aineias,T,Y,N,Hip
+5,534,Agamemnon,G,Y,Deïkoön,T,N,N,Stomach
+5,540,Aineias,T,Y,Orsilochos,G,N,Y,Not Specified
+5,540,Aineias,T,Y,Krethon,G,N,Y,Not Specified
+5,575,Menelaos,G,Y,Pylaimenes,T,N,Y,Shoulders
+5,580,Antilochos,G,N,Mydon,T,N,Y,Head
+5,609,Hektor,T,Y,Anchialos,G,N,Y,Not Specified
+5,609,Hektor,T,Y,Menesthes,G,N,Y,Not Specified
+5,612,Telamonian Aias,G,Y,Amphios,T,N,Y,Stomach
+5,657,Sarpedon,T,Y,Tlepolemos,G,N,Y,Neck
+5,660,Tlepolemos,G,N,Sarpedon,T,Y,N,Legs
+5,677,Odysseus,G,Y,Koiranos,T,N,Y,Not Specified
+5,677,Odysseus,G,Y,Chromios,T,N,Y,Not Specified
+5,677,Odysseus,G,Y,Alastor,T,N,Y,Not Specified
+5,678,Odysseus,G,Y,Halios,T,N,Y,Not Specified
+5,678,Odysseus,G,Y,Alkandros,T,N,Y,Not Specified
+5,678,Odysseus,G,Y,Prytanis,T,N,Y,Not Specified
+5,678,Odysseus,G,Y,Noëmon,T,N,Y,Not Specified
+5,704,Hektor,T,Y,Teuthras,T,N,Y,Not Specified
+5,704,Hektor,T,Y,Orestes,T,N,Y,Not Specified
+5,705,Hektor,T,Y,Trechos,T,N,Y,Not Specified
+5,706,Hektor,T,Y,Helenos,T,N,Y,Not Specified
+5,706,Hektor,T,Y,Oresbios,T,N,Y,Not Specified
+5,847,Ares,T,Y,Periphas,G,N,Y,Not Specified
+5,857,Diomedes,G,Y,Ares,T,Y,N,Stomach
+6,7,Telamonian Aias,G,Y,Akamas,T,N,Y,Head
+6,17,Diomedes,G,Y,Axylos,T,N,Y,Not Specified
+6,17,Diomedes,G,Y,Kalesios,T,N,Y,Not Specified
+6,20,Euryalos,G,N,Opheltios,T,N,Y,Not Specified
+6,20,Euryalos,G,N,Dresos,T,N,Y,Not Specified
+6,27,Euryalos,G,N,Aisepos,T,N,Y,Not Specified
+6,27,Euryalos,G,N,Pedasos,T,N,Y,Not Specified
+6,29,Polypoites,G,N,Astyalos,T,N,Y,Not Specified
+6,30,Odysseus,G,Y,Pidytes,T,N,Y,Not Specified
+6,31,Teukros,G,Y,Aretaon,T,N,Y,Not Specified
+6,32,Antilochos,G,Y,Ableros,T,N,Y,Not Specified
+6,33,Agamemnon,G,Y,Elatos,T,N,Y,Not Specified
+6,35,Leïtos,G,N,Phylakos,T,N,Y,Not Specified
+6,36,Eurypylos,G,N,Melanthios,T,N,Y,Not Specified
+6,64,Agamemnon,G,Y,Adrestos,T,N,Y,Side
+7,8,Paris,T,Y,Menesthios,G,N,Y,Not Specified
+7,11,Hektor,T,Y,Eïoneus,G,N,Y,Neck
+7,14,Glaukos,T,Y,Iphinoös,G,N,Y,Shoulders
+7,262,Telamonian Aias,G,Y,Hektor,T,Y,N,Neck
+8,119,Diomedes,G,Y,Eniopeus,T,N,Y,Chest
+8,256,Diomedes,G,Y,Agelaos,T,N,Y,Back
+8,274,Teukros,G,Y,Orsilochos,T,N,Y,Not Specified
+8,274,Teukros,G,Y,Ormenos,T,N,Y,Not Specified
+8,274,Teukros,G,Y,Ophelestes,T,N,Y,Not Specified
+8,275,Teukros,G,Y,Daitor,T,N,Y,Not Specified
+8,275,Teukros,G,Y,Chromios,T,N,Y,Not Specified
+8,275,Teukros,G,Y,Lykophontes,T,N,Y,Not Specified
+8,276,Teukros,G,Y,Amopaon,T,N,Y,Not Specified
+8,276,Teukros,G,Y,Melanippos,T,N,Y,Not Specified
+8,302,Teukros,G,Y,Gorgythion,T,N,Y,Chest
+8,312,Teukros,G,Y,Archeptolemos,T,N,Y,Chest
+8,327,Hektor,T,Y,Teukros,G,Y,N,Shoulders
+10,456,Diomedes,G,Y,Dolon,T,N,Y,Decapitated
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,488,Diomedes,G,Y,Thracian Soldier,T,N,Y,Not Specified
+10,495,Diomedes,G,Y,Rhesos,T,N,Y,Not Specified
+11,92,Agamemnon,G,Y,Bienor,T,N,Y,Not Specified
+11,95,Agamemnon,G,Y,Oïleus,T,N,Y,Face
+11,101,Agamemnon,G,Y,Isos,T,N,Y,Chest
+11,101,Agamemnon,G,Y,Antiphos,T,N,Y,Head
+11,122,Agamemnon,G,Y,Peisandros,T,N,Y,Chest
+11,122,Agamemnon,G,Y,Hippolochos,T,N,Y,Arms
+11,240,Agamemnon,G,Y,Iphidamas,T,N,Y,Decapitated
+11,253,Koön,T,N,Agamemnon,G,Y,N,Arms
+11,263,Agamemnon,G,Y,Koön,T,N,Y,Decapitated
+11,301,Hektor,T,Y,Asaios,G,N,Y,Not Specified
+11,301,Hektor,T,Y,Autonoös,G,N,Y,Not Specified
+11,301,Hektor,T,Y,Opites,G,N,Y,Not Specified
+11,302,Hektor,T,Y,Dolops,G,N,Y,Not Specified
+11,302,Hektor,T,Y,Opheltios,G,N,Y,Not Specified
+11,302,Hektor,T,Y,Agelaos,G,N,Y,Not Specified
+11,303,Hektor,T,Y,Aisymnos,G,N,Y,Not Specified
+11,303,Hektor,T,Y,Oros,G,N,Y,Not Specified
+11,303,Hektor,T,Y,Hipponoös,G,N,Y,Not Specified
+11,320,Diomedes,G,Y,Thymbraios,T,N,Y,Chest
+11,323,Odysseus,G,Y,Molion,T,N,Y,Not Specified
+11,334,Diomedes,G,Y,Son of Merops,T,N,Y,Not Specified
+11,334,Diomedes,G,Y,Son of Merops,T,N,Y,Not Specified
+11,335,Odysseus,G,Y,Hypeirochos,T,N,Y,Not Specified
+11,335,Odysseus,G,Y,Hippodamos,T,N,Y,Not Specified
+11,338,Diomedes,G,Y,Agastrophos,T,N,Y,Hip
+11,377,Paris,T,Y,Diomedes,G,Y,N,Foot
+11,420,Odysseus,G,Y,Deïopites,T,N,Y,Shoulders
+11,422,Odysseus,G,Y,Thoön,T,N,Y,Not Specified
+11,422,Odysseus,G,Y,Ennomos,T,N,Y,Not Specified
+11,423,Odysseus,G,Y,Chersidamas,T,N,Y,Stomach
+11,427,Odysseus,G,Y,Charops,T,N,Y,Not Specified
+11,437,Sokos,T,N,Odysseus ,G,Y,N,Ribs
+11,448,Odysseus,G,Y,Sokos,T,N,Y,Back
+11,489,Telamonian Aias,G,Y,Doryklos,T,N,Y,Not Specified
+11,490,Telamonian Aias,G,Y,Pandokos,T,N,Y,Not Specified
+11,491,Telamonian Aias,G,Y,Lysandros,T,N,Y,Not Specified
+11,491,Telamonian Aias,G,Y,Pyrasos,T,N,Y,Not Specified
+11,491,Telamonian Aias,G,Y,Pylartes,T,N,Y,Not Specified
+11,507,Paris,T,Y,Machaon,G,Y,N,Shoulders
+11,577,Eurypylos,G,N,Apisaon,T,N,Y,Stomach
+11,582,Paris,T,Y,Eurypylos,G,N,N,Legs
+12,183,Peirithoös,G,N,Damasos,T,N,Y,Head
+12,187,Peirithoös,G,N,Pylon,T,N,Y,Not Specified
+12,187,Peirithoös,G,N,Ormenos,T,N,Y,Not Specified
+12,188,Leonteus,G,N,Hippomachos,T,N,Y,Stomach
+12,192,Leonteus,G,N,Antiphates,T,N,Y,Not Specified
+12,193,Leonteus,G,N,Menon,T,N,Y,Not Specified
+12,193,Leonteus,G,N,Orestes,T,N,Y,Not Specified
+12,194,Leonteus,G,N,Iamenos,T,N,Y,Not Specified
+12,380,Telamonian Aias,G,Y,Epikles,T,N,Y,Head
+12,387,Teukros,G,Y,Glaukos,T,Y,N,Arms
+12,394,Sarpedon,T,Y,Alkmaon,G,N,Y,Chest
